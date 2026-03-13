@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "949594645691",
+    "project_id": "boendakitchen-5206b",
+    "storage_bucket": "boendakitchen-5206b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949594645691:android:0bd7ebafe5b75ac257f59e",
+        "android_client_info": {
+          "package_name": "com.example.boenda_kitchen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjBrxP22lUQSvkvU_Ssu0tsU6ExFglyok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
